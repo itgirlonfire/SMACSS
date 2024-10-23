@@ -5,11 +5,11 @@ index.html
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>SMACSS Pink Layout</title>
+    <title>SMACSS Example</title>
 </head>
 <body>
     <header class="layout__header">
-        <h1 class="base__title">SMACSS Pink Layout</h1>
+        <h1 class="base__title">SMACSS Example</h1>
     </header>
     
     <main class="layout__main">
